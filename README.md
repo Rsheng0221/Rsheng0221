@@ -1,45 +1,40 @@
 # 👋 Hi, I'm Rsheng
 
-🚀 Developer | FiveM Enthusiast | System Builder
+🚀 Full-Stack Developer | System Architect | Problem Solver
 
 ---
 
 ## 🧠 About Me
 
-I’m a passionate developer focused on building immersive systems and tools, especially within the FiveM ecosystem. I enjoy turning complex ideas into practical, clean, and scalable solutions.
+I’m a full-stack developer who enjoys building complete systems from the ground up — from backend architecture to frontend experience.
 
-My work mainly revolves around:
-
-* 🔧 FiveM ESX / QBCore development
-* 🌐 Web-based admin panels & tools
-* 🤖 Automation systems (Discord bots, logging systems, etc.)
-* 🧩 Gameplay systems (jobs, UI, mechanics, interactions)
-
-I care about structure, clarity, and usability — whether it's backend logic or user-facing design.
+I focus on writing clean, maintainable code and designing systems that are scalable, efficient, and practical. I like turning complex requirements into simple, reliable solutions.
 
 ---
 
 ## ⚙️ Tech Stack
 
-* **Languages:** Lua, JavaScript, Node.js, Python
-* **Frameworks:** ESX, QBCore
-* **Tools:** ox_lib, ox_inventory, MongoDB, REST APIs
-* **Other:** UI/UX design, system architecture, data handling
+* **Languages:** JavaScript / TypeScript, Python, Lua
+* **Frontend:** HTML, CSS, modern JS frameworks
+* **Backend:** Node.js, RESTful APIs, server architecture
+* **Database:** MongoDB, MySQL
+* **Tools:** Git, Docker (basic), API integration, system design
 
 ---
 
-## 💡 What I Build
+## 💡 What I Do
 
-* Advanced FiveM scripts (jobs, systems, mechanics)
-* Web dashboards for server management
-* Discord bots with automation & analytics
-* Custom gameplay features with immersive UI
+* Build full-stack web applications
+* Design and implement backend systems & APIs
+* Develop automation tools and bots
+* Create data-driven dashboards and management panels
+* Optimize system performance and structure
 
 ---
 
 ## 📫 Contact Me
 
-If you have any questions, collaborations, or ideas:
+If you have any questions, feel free to reach out:
 
 * QQ: 3391407547
 * Discord: .rsheng_
@@ -48,8 +43,8 @@ If you have any questions, collaborations, or ideas:
 
 ## 🌟 Philosophy
 
-> Clean code. Clear logic. Real functionality.
+> Build with logic. Design with purpose. Deliver with quality.
 
-I build things that work — and work well.
+I value clarity, efficiency, and real-world usability in everything I create.
 
 ---
