@@ -1,40 +1,26 @@
 # 👋 Hi, I'm Rsheng
 
-🚀 Full-Stack Developer | System Architect | Problem Solver
-
 ---
 
 ## 🧠 About Me
 
-I’m a full-stack developer who enjoys building complete systems from the ground up — from backend architecture to frontend experience.
-
-I focus on writing clean, maintainable code and designing systems that are scalable, efficient, and practical. I like turning complex requirements into simple, reliable solutions.
+I am a developer who enjoys the rich and beautiful frontend styles of animation. I am passionate about creating all kinds of systems and integrating with AI to make things more convenient for people. I like to research any issues related to game's script, which makes me happier. In addition, I enjoy playing basketball in my spare time, which helps me stay healthy.
 
 ---
 
 ## ⚙️ Tech Stack
 
-* **Languages:** JavaScript / TypeScript, Python, Lua
-* **Frontend:** HTML, CSS, modern JS frameworks
+* **Skill:** JavaScript, Python, C#, Lua
+* **Frontend:** HTML, CSS, Vue
 * **Backend:** Node.js, RESTful APIs, server architecture
 * **Database:** MongoDB, MySQL
-* **Tools:** Git, Docker (basic), API integration, system design
-
----
-
-## 💡 What I Do
-
-* Build full-stack web applications
-* Design and implement backend systems & APIs
-* Develop automation tools and bots
-* Create data-driven dashboards and management panels
-* Optimize system performance and structure
+* **Tools:** Docker, API integration, system design
 
 ---
 
 ## 📫 Contact Me
 
-If you have any questions, feel free to reach out:
+If you have any questions you'd like to ask me, please feel free to contact me.
 
 * QQ: 3391407547
 * Discord: .rsheng_
@@ -45,6 +31,6 @@ If you have any questions, feel free to reach out:
 
 > Build with logic. Design with purpose. Deliver with quality.
 
-I value clarity, efficiency, and real-world usability in everything I create.
+I hope that my works can be seen by more people!
 
 ---
